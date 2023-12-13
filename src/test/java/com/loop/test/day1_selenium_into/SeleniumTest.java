@@ -20,8 +20,8 @@ public class SeleniumTest {
 //        driver.manage().window().fullscreen();
 
         driver.navigate().refresh();
-
 //        driver.quit();
         driver.close();
+
     }
 }
